@@ -1,7 +1,9 @@
 # Proyek 1 Manajemen Basis Data: Docker & PostgreSQL RBAC
 **Nama:** Al Ghifari 
+
 **NIM:** 1247050118  
-**Mata Kuliah:**Manajemen Basis Data
+
+**Mata Kuliah:** Manajemen Basis Data
 
 ## 1. Setup Kontainer & Konfigurasi Port
 Proyek ini menggunakan Docker untuk menjalankan PostgreSQL dan pgAdmin4 dalam satu jaringan internal.
