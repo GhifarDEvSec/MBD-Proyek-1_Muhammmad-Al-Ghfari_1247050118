@@ -3,7 +3,6 @@
 </div>
 <br>
 <p>
-  <b>Disusun Oleh:</b><br>
   Muhammad Al Ghifari Gunawan<br>
   NIM: 1247050118<br>
   Mata Kuliah: Manajemen Basis Data
