@@ -1,16 +1,13 @@
 <div align="center">
-  <h2><b>LAPORAN PROYEK 1 MANAJEMEN BASIS DATA</b></h2>
-  <h3><b>Docker & PostgreSQL Role-Based Access Control (RBAC)</b></h3>
-  <br>
-  <p>
-    <b>Disusun Oleh:</b><br>
-    Muhammad Al Ghifari Gunawan<br>
-    NIM: 1247050118<br>
-    Mata Kuliah: Manajemen Basis Data
-  </p>
+  <h2><b>PROYEK 1 MANAJEMEN BASIS DATA</b></h2>
 </div>
-
-<hr>
+<br>
+<p>
+  <b>Disusun Oleh:</b><br>
+  Muhammad Al Ghifari Gunawan<br>
+  NIM: 1247050118<br>
+  Mata Kuliah: Manajemen Basis Data
+</p>
 
 ## I. Setup Kontainer & Konfigurasi Port
 
