@@ -2,11 +2,6 @@
   <h2><b>PROYEK 1 MANAJEMEN BASIS DATA</b></h2>
 </div>
 <br>
-<p>
-  Muhammad Al Ghifari Gunawan<br>
-  NIM: 1247050118<br>
-  Mata Kuliah: Manajemen Basis Data
-</p>
 
 ## I. Setup Kontainer & Konfigurasi Port
 
